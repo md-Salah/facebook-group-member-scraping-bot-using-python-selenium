@@ -9,4 +9,4 @@ start > logs in facebook > input group link > scroll to the last of the group > 
 
 ## Purchase from
 - [Fiverr](https://www.fiverr.com/salah_3652/create-browser-scraper-and-automation-python-bot-in-selenium)
-- telegram/whatsapp **salahuddin3652@gmail.com**
+- email **mdsalah04123@gmail.com**
